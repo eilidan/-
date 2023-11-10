@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yangxianhao/Desktop/课后作业/数值分析/上机作业/第一次上机作业/code/answer1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _f1, symObjAddr: 0x0, symBinAddr: 0x1000038FC, symSize: 0x3C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _f1, symObjAddr: 0x0, symBinAddr: 0x1000038FC, symSize: 0x3C }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _f2, symObjAddr: 0x3C, symBinAddr: 0x100003938, symSize: 0x5C }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _f3, symObjAddr: 0x98, symBinAddr: 0x100003994, symSize: 0x30 }
+  - { offsetInCU: 0xE3, offset: 0xE3, size: 0x8, addend: 0x0, symName: _integrate, symObjAddr: 0xC8, symBinAddr: 0x1000039C4, symSize: 0x128 }
+  - { offsetInCU: 0x1A5, offset: 0x1A5, size: 0x8, addend: 0x0, symName: _solveLinearSystem, symObjAddr: 0x1F0, symBinAddr: 0x100003AEC, symSize: 0x240 }
+  - { offsetInCU: 0x21D, offset: 0x21D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x430, symBinAddr: 0x100003D2C, symSize: 0x20C }
+...

@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yangxianhao/Desktop/课后作业/数值分析/上机作业/第二次上机作业/code/answer1-1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _f_4runge, symObjAddr: 0x0, symBinAddr: 0x10000378C, symSize: 0x28 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _f_4runge, symObjAddr: 0x0, symBinAddr: 0x10000378C, symSize: 0x28 }
+  - { offsetInCU: 0x6A, offset: 0x6A, size: 0x8, addend: 0x0, symName: _remix_center_point, symObjAddr: 0x28, symBinAddr: 0x1000037B4, symSize: 0xDC }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: _remix_trapezoid, symObjAddr: 0x104, symBinAddr: 0x100003890, symSize: 0x110 }
+  - { offsetInCU: 0x1D2, offset: 0x1D2, size: 0x8, addend: 0x0, symName: _remix_simposon, symObjAddr: 0x214, symBinAddr: 0x1000039A0, symSize: 0x154 }
+  - { offsetInCU: 0x2B0, offset: 0x2B0, size: 0x8, addend: 0x0, symName: _handleCoordinates, symObjAddr: 0x368, symBinAddr: 0x100003AF4, symSize: 0x1B0 }
+  - { offsetInCU: 0x36E, offset: 0x36E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x518, symBinAddr: 0x100003CA4, symSize: 0x158 }
+...

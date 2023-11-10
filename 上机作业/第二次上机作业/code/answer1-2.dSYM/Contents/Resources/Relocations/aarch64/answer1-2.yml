@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yangxianhao/Desktop/课后作业/数值分析/上机作业/第二次上机作业/code/answer1-2"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _f_4runge, symObjAddr: 0x0, symBinAddr: 0x100003AD8, symSize: 0x28 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _f_4runge, symObjAddr: 0x0, symBinAddr: 0x100003AD8, symSize: 0x28 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _romberg_integration, symObjAddr: 0x28, symBinAddr: 0x100003B00, symSize: 0x3EC }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x414, symBinAddr: 0x100003EEC, symSize: 0x6C }
+...
